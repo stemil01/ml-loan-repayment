@@ -1,0 +1,9 @@
+# Python virtual environments
+.venv/
+venv/
+
+# Dataset
+dataset/
+
+# Jupyter Notebok
+.ipynb_checkpoints/
